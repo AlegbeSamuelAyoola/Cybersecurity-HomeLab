@@ -238,7 +238,7 @@ Before starting, ensure you have:
 ## Future Enhancements
 
 ✅ **Future Documentation Updates:**
-- [ ] 🔜 Part 2: SIEM Integration (Coming Soon!)
+- [ ] 🔜 Part 2: [SIEM Integration](./SIEM%20Integration.md)
 - [ ] 🔜 Part 3: Automating SOC Processes with Python & Bash (Coming Soon!)
 
 ## Contributing
