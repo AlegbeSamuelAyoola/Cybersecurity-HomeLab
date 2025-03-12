@@ -1,4 +1,4 @@
-# SIEM Lab with Splunk, Sysmon, and Universal Forwarder
+# Cybersecurity Home Lab Documentation (Part 2 of 3) SIEM Lab with Splunk, Sysmon, and Universal Forwarder
 
 This repository provides a step-by-step guide to set up a Security Information and Event Management (SIEM) lab using Splunk Enterprise on Linux, Splunk Universal Forwarder on Windows, and Sysmon for enhanced Windows logging. It also covers troubleshooting tips, configuration details, and installing the Splunk Add-On for Microsoft Sysmon.
 
@@ -136,7 +136,7 @@ Look for a rule allowing inbound traffic on port 9997. If it’s missing, create
 - In Splunk Web (http://<LINUX_IP>:8000), navigate to **Settings > Forwarding and Receiving**.
 <div class="container">
   <div class="text">Setting up Receiver</div>
-  <img src="Images/fowardReceiving.png" alt="Set up receiver" width="600">
+  <img src="Images/forwardreceiving.png" alt="Set up receiver" width="600">
 </div>
 
 - Click **Add New** under Receiving and set the port to 9997.
